@@ -61,7 +61,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 403px;
-  background-image: url(image.png);
+  background-image: url("image.png");
   color: white;
   font-size: 72px;
   font-weight: 500;
@@ -86,7 +86,7 @@ body {
   display: flex;
   height: 483px;
   color: white;
-  background-image: url(image 2.png);
+  background-image: url("image 2.png");
   justify-content: center;
   align-items: center;
   font-size: 48px;
