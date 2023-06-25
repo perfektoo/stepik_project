@@ -86,7 +86,7 @@ body {
   display: flex;
   height: 483px;
   color: white;
-  background-image: url(image 2.png);
+  background-image: url("image 2.png");
   justify-content: center;
   align-items: center;
   font-size: 48px;
